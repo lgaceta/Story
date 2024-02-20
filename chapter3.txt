@@ -1,0 +1,1 @@
+This is the third "chapter" of me learning how to use Git for version control. Checkout command works and is amazing!
