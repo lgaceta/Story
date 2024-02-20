@@ -1,0 +1,1 @@
+This is the second "chapter" of me learning how to use Git for version control.
